@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.menuBtns{
+  text-decoration: none;
+  padding: 0.5em 1em;
+  border-radius: 6px;
+  background: rgb(150 89 213);
+  color: white;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+  font-weight: 600 !important;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+}
+.buttons{
+  background:rgb(150 89 213) !important;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+  font-weight: 600 !important;
+}
+.buttons:hover{
+  background: violet;
+}
