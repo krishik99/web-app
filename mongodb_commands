@@ -1,0 +1,8 @@
+MONGO DB LINUX CONNECTING COMMAND
+sudo systemctl start mongod
+--------------------------
+TO CHECK STATUS
+sudo systemctl status mongod
+--------------------------
+TO STOP
+sudo systemctl stop mongod
